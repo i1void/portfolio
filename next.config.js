@@ -3,7 +3,7 @@
 const nextConfig = {
   compress: false,
   generateBuildId: async () => {
-    return 'ky6taka-id';
+    return 'i1void-id';
   },
   poweredByHeader: false,
   swcMinify: true,
