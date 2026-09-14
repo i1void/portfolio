@@ -7,12 +7,12 @@ const defaultMeta = {
   siteName: 'void',
   desc: 'Void is one of the developers in Indonesia. Void, feel free to say hi.',
   // change base url of your web (without '/' at the end)
-  url: 'https://ky6taka.site',
+  url: 'https://i1void.is-a.dev',
   type: 'website',
   // change to follow, index if you want to
   robots: 'nofollow, noindex',
-  image: 'https://ky6taka.site/images/pages/profile.jpg',
-  author: 'ky6taka',
+  image: 'https://i1void.is-a.dev/images/pages/profile.jpg',
+  author: 'i1void',
 };
 
 /**
@@ -69,7 +69,7 @@ export default function SeoHead(props: {
       <meta property="og:image" content={meta.image} />
       {/* Twitter */}
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content="@ky6taka_id" />
+      <meta name="twitter:site" content="@i1void" />
       <meta name="twitter:title" content={meta.title} />
       <meta name="twitter:description" content={meta.desc} />
       <meta name="twitter:image" content={meta.image} />
