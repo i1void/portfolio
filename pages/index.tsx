@@ -36,7 +36,7 @@ export default function Home() {
               priority={true}
               src={profileImage}
               placeholder="blur"
-              alt="Ky6taka"
+              alt="i1void"
               className="relative rounded-full"
             />
           </motion.div>
